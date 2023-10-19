@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(95, 150, 119);
+}
+
+.card-body{
+    text-align: center;
+    color: white;
+    /* background-image: linear-gradient(to right top, #afa78c, #a8a288, #a19d84, #9a9781, #93927d, #898c79, #808574, #777f70, #6b766a, #5f6d64, #55645e, #4c5b58); */
+     background-color: fuchsia;
+}
+
+.name{
+    color: white;
+    background-color: black;
+}
+
+/* .img{
+    height: 180px;
+    width: 300px; ;
+} */
+/* @media screen and (max-width: 1000px) {
+    .img {
+        height: 50px;
+        width: 60px; 
+    
+    }
+  } */
+
+  .btn-weather{
+    border: 0.5px solid white;
+    color: white;
+    background-color: transparent;
+}
+
+.cards{
+    padding: 13px;
+   background-color: khaki;
+}
